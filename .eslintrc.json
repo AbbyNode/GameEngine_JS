@@ -1,0 +1,28 @@
+{
+	"parser": "@typescript-eslint/parser",
+	"parserOptions": {
+		"ecmaVersion": 6,
+		"sourceType": "module"
+	},
+	"env": {
+		"browser": true,
+		"es6": true
+	},
+	"plugins": [
+		"@typescript-eslint"
+	],
+	"extends": [
+		"eslint:recommended",
+		"plugin:@typescript-eslint/recommended"
+	],
+	"rules": {
+		"@typescript-eslint/no-unused-vars": ["warn", {
+			"vars": "all",
+			"args": "none"
+		  }]
+	},
+	"globals": {
+		"createjs": "readonly",
+		"Papa": "readonly"
+	}
+}
