@@ -1,0 +1,1 @@
+{"version":3,"file":"GameObject.js","sourceRoot":"","sources":["../../../scripts/engine/core/GameObject.ts"],"names":[],"mappings":"AAEA;;;;;;;GAOG;AACH,MAAM,OAAgB,UAAU;IAS/B,YAAY;IAEZ;QACC,IAAI,CAAC,WAAW,GAAG,EAAE,CAAC;IACvB,CAAC;IAVD,eAAe;IAEf,IAAW,UAAU;QACpB,OAAO,IAAI,CAAC,WAAW,CAAC;IACzB,CAAC;CAOD"}
